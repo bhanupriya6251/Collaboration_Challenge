@@ -1,4 +1,4 @@
-n = int(input())
+m = int(input())
 a = list(map(int,input().split()))
 psum=[]
 prefix_sum.append(a[0])
